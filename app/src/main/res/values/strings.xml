@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Mad_lab3</string>
     <string name="initial_commitment">Initial Commitment</string>
+    <string name="initial_commit">Initial Commit</string>
+    <string name="_2nd_commit">2nd Commit</string>
 </resources>
